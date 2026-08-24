@@ -1,0 +1,17 @@
+{
+  "name": "mini-framework",
+  "version": "1.0.0",
+  "description": "A simple HTTP framework built with Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node examples/app.js"
+  },
+  "keywords": [
+    "framework",
+    "nodejs",
+    "http",
+    "router"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
